@@ -5,30 +5,26 @@
 &nbsp;
 
 <div align="center" style="margin-bottom:100px">
-  <img width=20% align="center" src="https://img.shields.io/github/languages/top/kaio-viana/base-djsv14?style=for-the-badge&labelColor=%235865f2&color=%235865f2" />
-  <img width=14.4% align="center" src="https://img.shields.io/github/license/kaio-viana/base-djsv14?style=for-the-badge&labelColor=%235865f2&color=%235865f1" />
+  <img width=20% align="center" src="https://img.shields.io/github/languages/top/kaio-viana/readme-template?style=for-the-badge&labelColor=000000&color=000000" />
+  <img width=26.5% align="center" src="https://img.shields.io/github/license/kaio-viana/readme-template?style=for-the-badge&labelColor=000000&color=000000" />
  </div>
 
  &nbsp;
  &nbsp;
 
-> This is a simple template for a Discord bot project using **Discord.js v14** in **TypeScript**. Use this as a starting point for creating your own Discord bot with advanced TypeScript and structure.
+> This is a simple template for a Github Readme
 
 &nbsp;
 
 ## ✨ Features
 
-- **Slash and Context Commands Support**: Supports slash commands, buttons, modals and much more.
-- **Event Handling**: Organized events for better readability.
-- **TypeScript Typing**: Full TypeScript support with interfaces and types.
-- **Templates Included**: All templates of commands, buttons, modals, and more are included.
+- **Description**
 
 &nbsp;
 
-## 🤖 Commands
+## 🤖 More Description
 
-- `/ping`: Basic command to verify the bot's responsiveness.
-#### You can add more commands to the src/commands directory, and they will be automatically loaded.
+- `and much more` description too.
 
 &nbsp;
 
@@ -36,8 +32,7 @@
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) (version 22.11.0 or newer)
-- [NPM](https://nodejs.org/) (included in Node.js)
+- Your requisites
 
 &nbsp;
 
@@ -45,27 +40,25 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/kaio-viana/base-djsv14.git
-cd base-djsv14
+git clone https://github.com/kaio-viana/readme-template.git
+cd readme-template
 ```
 2. Install dependencies:
 ```
-npm install
+description
 ```
-3. Setup Environment Variables `.env`:
+3. More description:
 ```
-BOT_TOKEN=your_bot_token
-CLIENT_ID=your_bot_client_id
-MONGO_URI=your_mongo_uri
+more here too.
 ```
 
 &nbsp;
 
-## ☕ Running the Bot
+## ☕ Description
 
-To compile TypeScript and start the bot:
+guess? here too.
 ```
-npm start      # Compiles TypeScript to JavaScript and starts the bot using compiled files
+toooo
 ```
 
 &nbsp;
